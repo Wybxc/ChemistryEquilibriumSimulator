@@ -1,2 +1,1 @@
-# ChemistryEquilibriumSimulator
-简单的化学平衡模拟计算。(未完成)
+# Equilibrium Simulator of Chemistry（化学平衡模拟器）
