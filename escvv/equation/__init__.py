@@ -2,7 +2,7 @@ from typing import Dict, List, Tuple
 
 import numpy as np
 
-from .state import ESCState
+from ..state import ESCState
 
 
 class ESCEquation():
